@@ -20,7 +20,7 @@ const mysql = require("mysql");
       }
 
       console.log(results);
-      console.log(fields)
+      console.log(fields);
     });
   });
 })();
